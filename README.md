@@ -2,8 +2,6 @@
 <h3 align="center">I love web & mobile design & development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadbryam&label=Profile%20views&color=f7bff0&style=flat-square" alt="deadbryam" /> </p>
-<p align="left"> <a href="https://twitter.com/deadbryam" target="blank"><img src="https://img.shields.io/twitter/follow/deadbryam?logo=twitter&style=for-the-badge" alt="deadbryam" /></a> </p>
-
 
 - 🌱 I’m currently learning **React, Svelte, Unreal & Adobe Suit.**
 
@@ -21,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadbryam&show_icons=true&theme=dark&title_color=7c00db&text_color=7c00db&bg_color=ffffff&hide_border=true&locale=en" alt="deadbryam" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadbryam" alt="deadbryam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/deadbryam" target="blank"><img src="https://img.shields.io/twitter/follow/deadbryam?logo=twitter&style=for-the-badge" alt="deadbryam" /></a> </p>
